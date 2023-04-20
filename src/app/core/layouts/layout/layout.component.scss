@@ -1,0 +1,24 @@
+.layout-container {
+    background-color: #F6F6F6;
+}
+
+.elipse-1 {
+    background-image: url('/assets/elipse-one.png');
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 200px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+}
+
+.elipse-2 {
+    background-image: url('/assets/elipse-two.png');
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+}
+
